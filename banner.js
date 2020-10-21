@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
   /* バナーロード */
   const goldBanner = document.getElementById('goldBanner');
   const silverBanner = document.getElementById('silverBanner');
-  const URLBannerData = 'https://banner2020.rikoten.com/banner.json';
+  const URLBannerData = 'https://rikoten.github.io/2020-bannerData/banner.json';
   const requestBannerData = new XMLHttpRequest();
   requestBannerData.open('GET', URLBannerData);
 
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
       style = '-ms-grid-column: ' + String(columnG) + '; -ms-grid-row: ' + String(rowG) + '; background-color: ' + bgcolor + ';'
       bannerElem.setAttribute('style', style);
 
-      bannerElem.innerHTML = '<img src = "https://banner2020.rikoten.com/img/' + elem["img"] + '" alt = "' + elem["alt"] + '">';
+      bannerElem.innerHTML = '<img src = "https://rikoten.github.io/2020-bannerData/img/' + elem["img"] + '" alt = "' + elem["alt"] + '">';
 
       goldBanner.appendChild(bannerElem);
       if (iG % 2 != 0) rowG++;
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
       style = '-ms-grid-column: ' + String(columnS) + '; -ms-grid-row: ' + String(rowS) + '; background-color: ' + bgcolor + ';'
       bannerElem.setAttribute('style', style);
 
-      bannerElem.innerHTML = '<img src = "https://banner2020.rikoten.com/img/' + elem["img"] + '" alt = "' + elem["alt"] + '">';
+      bannerElem.innerHTML = '<img src = "https://rikoten.github.io/2020-bannerData/img/' + elem["img"] + '" alt = "' + elem["alt"] + '">';
 
       silverBanner.appendChild(bannerElem);
       if (iS % 3 == 2) rowS++;
