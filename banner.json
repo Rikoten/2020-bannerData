@@ -10,7 +10,8 @@
       "img": "agos.png",
       "url": "",
       "bgcolor": "#003894",
-      "alt": "株式会社アゴスジャパン"
+      "alt": "株式会社アゴスジャパン",
+      "disabled": 1
     },
     {
       "img": "lemon.jpg",
@@ -22,7 +23,8 @@
       "img": "tullys.png",
       "url": "",
       "bgcolor": "",
-      "alt": "タリーズコーヒー"
+      "alt": "タリーズコーヒー",
+      "disabled": 1
     },
     {
       "img": "musashi.jpg",
@@ -34,7 +36,8 @@
       "img": "hit.png",
       "url": "http://www.hit-men.co.jp/",
       "bgcolor": "",
-      "alt": "株式会社ヒット"
+      "alt": "株式会社ヒット",
+      "disabled": 1
     },
     {
       "img": "pco.gif",
@@ -46,13 +49,15 @@
       "img": "rise.png",
       "url": "",
       "bgcolor": "",
-      "alt": "株式会社ライズグループ"
+      "alt": "株式会社ライズグループ",
+      "disabled": 1
     },
     {
       "img": "riso.png",
       "url": "",
       "bgcolor": "",
-      "alt": "株式会社リソー教育"
+      "alt": "株式会社リソー教育",
+      "disabled": 1
     },
     {
       "img": "maxell.png",
@@ -72,13 +77,15 @@
       "img": "cocoro-black.png",
       "url": "",
       "bgcolor": "",
-      "alt": "麺屋こころ"
+      "alt": "麺屋こころ",
+      "disabled": 1
     },
     {
       "img": "diamond.jpg",
       "url": "",
       "bgcolor": "",
-      "alt": "株式会社ダイヤモンド・ヒューマンリソース"
+      "alt": "株式会社ダイヤモンド・ヒューマンリソース",
+      "disabled": 1
     }
   ]
 ]
