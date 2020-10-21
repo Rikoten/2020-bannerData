@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let columnG = 0;
     let rowG = 0;
     GoldBannerData.forEach(function(elem) {
-      if (typeof elem["disabled"] != "undefined") {
+      if (typeof elem["disabled"] == "undefined") {
         let bannerElem = document.createElement('a');
         columnG = 1;
         if (iG % 2 != 0) columnG = 3;
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let columnS = 0;
     let rowS = 0;
     SilverBannerData.forEach(function(elem) {
-      if (typeof elem["disabled"] != "undefined") {
+      if (typeof elem["disabled"] == "undefined") {
         let bannerElem = document.createElement('a');
         columnS = 1;
         if (iG % 3 == 1) columnS = 3;
