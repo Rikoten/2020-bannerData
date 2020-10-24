@@ -52,11 +52,10 @@
       "disabled": 1
     },
     {
-      "img": "riso.png",
-      "url": "",
+      "img": "tomas.png",
+      "url": "https://www.tomas.co.jp/?ap=wsd",
       "bgcolor": "",
-      "alt": "株式会社リソー教育",
-      "disabled": 1
+      "alt": "株式会社リソー教育"
     },
     {
       "img": "maxell.png",
@@ -73,11 +72,11 @@
       "alt": "NOK株式会社"
     },
     {
-      "img": "cocoro-black.png",
-      "url": "",
+      "img": "cocoro (1).png",
+      "imgOrg": "cocoro.png",
+      "url": "https://www.menya-cocoro.com/",
       "bgcolor": "",
-      "alt": "麺屋こころ",
-      "disabled": 1
+      "alt": "麺屋こころ"
     },
     {
       "img": "diamond.jpg",
