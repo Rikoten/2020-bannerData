@@ -8,10 +8,9 @@
     },
     {
       "img": "agos.png",
-      "url": "",
+      "url": "https://www.agos.co.jp/",
       "bgcolor": "#003894",
-      "alt": "株式会社アゴスジャパン",
-      "disabled": 1
+      "alt": "株式会社アゴスジャパン"
     },
     {
       "img": "lemon.jpg",
