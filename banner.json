@@ -32,11 +32,10 @@
       "alt": "武蔵エンジニアリング"
     },
     {
-      "img": "hit.png",
+      "img": "hit.jpg",
       "url": "http://www.hit-men.co.jp/",
-      "bgcolor": "",
-      "alt": "株式会社ヒット",
-      "disabled": 1
+      "bgcolor": "#FEF8F8",
+      "alt": "株式会社ヒット"
     },
     {
       "img": "pco.gif",
