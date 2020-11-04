@@ -19,13 +19,6 @@
       "alt": "レモン画翠"
     },
     {
-      "img": "tullys.png",
-      "url": "",
-      "bgcolor": "",
-      "alt": "タリーズコーヒー",
-      "disabled": 1
-    },
-    {
       "img": "musashi.jpg",
       "url": "https://www.musashi-engineering.co.jp/recruit/",
       "bgcolor": "",
@@ -44,13 +37,6 @@
       "alt": "株式会社ピーシーオーワークス"
     },
     {
-      "img": "rise.png",
-      "url": "",
-      "bgcolor": "",
-      "alt": "株式会社ライズグループ",
-      "disabled": 1
-    },
-    {
       "img": "tomas.png",
       "url": "https://www.tomas.co.jp/?ap=wsd",
       "bgcolor": "#F7F7F7",
@@ -61,6 +47,18 @@
       "url": "https://www.maxell.co.jp/",
       "bgcolor": "",
       "alt": "マクセル株式会社"
+    },
+    {
+      "img": "tullys.svg",
+      "url": "https://www.tullys.co.jp/",
+      "bgcolor": "",
+      "alt": "タリーズコーヒー"
+    },
+    {
+      "img": "rise.png",
+      "url": "https://tatujins.com/",
+      "bgcolor": "#0D0D67",
+      "alt": "株式会社ライズグループ"
     }
   ],
   [
@@ -78,7 +76,7 @@
     },
     {
       "img": "diamond.jpg",
-      "url": "",
+      "url": "https://www.shukatsu.jp/2022/navi22/event/",
       "bgcolor": "",
       "alt": "株式会社ダイヤモンド・ヒューマンリソース",
       "disabled": 1
